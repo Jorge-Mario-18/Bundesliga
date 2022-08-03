@@ -13,7 +13,7 @@ I've compiled all of the games played by each team and compared what their posse
 I also presented the averages of each team in terms of possessions vs goals scored. 
 
 It's important to recognize that Bayern Munich as a whole is an outlier 
-comapred to the rest of the Bundesliga as they have a huge financial advantage and winners of the last 10 Bundesliga seasons.  
+comapred to the rest of the Bundesliga as they have a huge financial advantage and are the winners of the last 10 Bundesliga seasons.  
 I did want to included them as a comparison to the rest of the teams in the league. 
 
 I provided all of the cvs files for the four teams courtsey of SportsReference.com. The first part of the project is the python script
