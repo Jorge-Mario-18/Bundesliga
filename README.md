@@ -9,7 +9,7 @@ Eintracht Frankfurt(12th and winner of the Europa League), and Greuther Fürth(1
 I used data for each game played for each team, possession and goals in favor (goals scored). 
 I removed any outliers in the data such as games that ended in penalties and a game where Bayern Munich scored 12 goals. 
 
-I've compiled all of the games played by each team and compared what their possesions were vs how many goals they scored. 
+I've compiled all of the games played by each team and compared what their possessions were vs how many goals they scored. 
 I also presented the averages of each team in terms of possessions vs goals scored. 
 
 It's important to recognize that Bayern Munich as a whole is an outlier 
